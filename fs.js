@@ -1,8 +1,8 @@
-import fs from 'fs';
+import fs from "fs"
 
 async function readDir() {
-    const dir = await fs.readdir();
-    console.log(dir);
+	const dir = await fs.readdir()
+	console.log(dir)
 }
 
-readDir();
+readDir()
