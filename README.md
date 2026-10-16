@@ -7,3 +7,10 @@ Detached repository for [Mosh](https://www.youtube.com/@programmingwithmosh) at 
 ### Purpose
 
 Part of computer-science study curriculum available in [Notion](https://kuzminklk.notion.site/31154d4de03580d7b5ceca5b187846be)
+
+### Technologies
+
+Development: Visual Studio Code, Artificial intelligence assistance
+Programming language: JavaScript
+Formatting: Prettier, Husky, lint-staged, “.vscode/…”, “.editorconfig”  
+Version Control: Git, GitHub
